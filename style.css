@@ -1,14 +1,16 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #2C2F33;
+  color: #000;
 }
 
 /** LINKS **/
 a:link {
-  color: black;
+  color: #7289DA;
 }
 a:hover {
   text-decoration: none;
 }
 a:visited {
-  color: black;
+  color: #7289DA;
 }
