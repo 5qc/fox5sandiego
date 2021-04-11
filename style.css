@@ -4,6 +4,10 @@ body {
   color: #000;
 }
 
+.text {
+  color: #fff;
+}
+
 /** LINKS **/
 a:link {
   color: #7289DA;
